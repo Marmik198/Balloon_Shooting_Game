@@ -14,15 +14,5 @@ Balloon Shooting Game in C programming language that uses graphic mode in which 
  After executing the code the game is ready for playing.
  
  
-  Any reference website or video or book or documentation u read?
-  
-  https://www.geeksforgeeks.org/
-  
-  https://www.youtube.com/watch?v=aSkP_MTM8uU
-  
-  https://www.youtube.com/watch?v=p7KsM_ujlzk
-  
-  https://www.youtube.com/watch?v=xNvgohYz6RE
-  
-  https://www.cs.colorado.edu/~main/cs1300/doc/bgi/getimage.html
-  
+
+## Made by Marmik, Keval and Kush
