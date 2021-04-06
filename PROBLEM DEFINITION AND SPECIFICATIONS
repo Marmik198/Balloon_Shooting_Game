@@ -1,0 +1,25 @@
+PROBLEM DEFINITION:
+
+Create a game in which one needs to pop balloons using an arrow to score points and reach new levels.
+The game allows the user to enter his/her name and toggle audio on or off according to player's preference
+and also asks the player to rate the game out of 10. Also the game displays the score and level the player reached at the end of the game.
+
+
+INPUT SPECIFICATIONS:
+
+1.	What is your Name?
+2.	Do you want Audio/Sound?
+3.	Will you rate your experience out of 10?
+
+
+OUTPUT SPECIFICATIONS:
+
+1.	What was your Score?
+2.	Till which level did you reached?
+3.	What was the reason behind your loss?
+
+
+SPECIAL PROCESSING: 
+
+1.	What if you want to quit the game in between?
+2.	What if the game stops working in between?
