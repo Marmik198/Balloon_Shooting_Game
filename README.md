@@ -1,5 +1,4 @@
 # Balloon-shooting-in-c
-Balloon shooting-in-c
 
 What the project is all about ?
 
@@ -14,5 +13,4 @@ Balloon Shooting Game in C programming language that uses graphic mode in which 
  After executing the code the game is ready for playing.
  
  
-
-## Made by Marmik, Keval and Kush
+# Made by Marmik, Keval and Kush
